@@ -1,0 +1,7 @@
+C:\Users\bennett253\Documents\C#Repo\AccountTest\AccountTest\bin\Debug\AccountTest.exe.config
+C:\Users\bennett253\Documents\C#Repo\AccountTest\AccountTest\bin\Debug\AccountTest.exe
+C:\Users\bennett253\Documents\C#Repo\AccountTest\AccountTest\bin\Debug\AccountTest.pdb
+C:\Users\bennett253\Documents\C#Repo\AccountTest\AccountTest\obj\Debug\AccountTest.csprojAssemblyReference.cache
+C:\Users\bennett253\Documents\C#Repo\AccountTest\AccountTest\obj\Debug\AccountTest.csproj.CoreCompileInputs.cache
+C:\Users\bennett253\Documents\C#Repo\AccountTest\AccountTest\obj\Debug\AccountTest.exe
+C:\Users\bennett253\Documents\C#Repo\AccountTest\AccountTest\obj\Debug\AccountTest.pdb
